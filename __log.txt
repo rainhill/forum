@@ -25,3 +25,17 @@ x Fix nickname when user.nickname() returns nick instead of email
   else use as nick
 
 
+----------
+
+Hi, any any work on to-do items listed here + webapp2 & python27 migration?
+
+I found this forum nice and simple with a clean interface, and would like to 
+use it for my hoby website on acient runic alphabets..
+
+I dont want to rude but, may I offer some gift items from Amazon.com as a little incentive? 
+
+:-)
+
+
+
+
